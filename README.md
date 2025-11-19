@@ -31,7 +31,7 @@ ecommerce-data-pipeline/
 
 Goal:
 
-Build a complete data pipeline that can generate insights for an eCommerce business.
+Built a complete data pipeline that can generate insights for an eCommerce business.
 
 ✔ Steps involved
 Step	Description
@@ -86,11 +86,12 @@ Customer segmentation:
 
 ❌ Lost
 
-Your SQL scripts for these are stored in the sql/ folder.
+SQL scripts for these are stored in the sqll/ folder.
 
 📊 Looker Studio Dashboard
 
-You created a complete dashboard that includes:
+
+ created a complete dashboard that includes:
 
 Revenue metrics
 
