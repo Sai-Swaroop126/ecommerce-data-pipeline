@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.pyc
+venv/
+.env
+.env.*
+
+# Data
+/data/raw/
+/data/*_full.csv
+/*.parquet
+
+# Secrets
+*.json
+*.key
+*.pem
+credentials/
+
+# Jupyter & IDE
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
